@@ -1,0 +1,1 @@
+MYSQL_ADD_PLUGIN(esr plugin.cc item_esrfunc.cc  RECOMPILE_FOR_EMBEDDED MODULE_ONLY)
